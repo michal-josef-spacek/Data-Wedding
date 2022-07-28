@@ -19,6 +19,10 @@ META.yml
 README
 t/Data-Wedding-Person/01-use.t
 t/Data-Wedding-Person/02-version.t
+t/Data-Wedding-Person/03-new.t
+t/Data-Wedding-Person/04-email.t
+t/Data-Wedding-Person/05-name.t
+t/Data-Wedding-Person/06-id.t
 t/Data-Wedding-Wish/01-use.t
 t/Data-Wedding-Wish/02-version.t
 t/Data-Wedding/01-use.t
