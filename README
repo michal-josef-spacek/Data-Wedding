@@ -1,0 +1,26 @@
+NAME
+    Data::Wedding - Data objects for the Wedding application.
+
+SEE ALSO
+    Data::Wedding::Person
+        TODO
+
+    Data::Wedding::Wish
+        TODO
+
+REPOSITORY
+    <https://github.com/michal-josef-spacek/Data-Wedding>
+
+AUTHOR
+    Michal Josef Špaček <mailto:skim@cpan.org>
+
+    <http://skim.cz>
+
+LICENSE AND COPYRIGHT
+    © 2022 Michal Josef Špaček
+
+    BSD 2-Clause License
+
+VERSION
+    0.01
+
