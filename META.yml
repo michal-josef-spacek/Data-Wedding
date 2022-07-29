@@ -20,6 +20,7 @@ meta-spec:
 name: Data-Wedding
 no_index:
   directory:
+    - examples
     - inc
     - t
     - xt
