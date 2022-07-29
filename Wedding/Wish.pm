@@ -32,7 +32,7 @@ sub BUILD {
 
 	# Check wish.
 	check_required($self, 'wish');
-	check_length($self, 'wish', 255);
+	check_length($self, 'wish', 5000);
 
 	return;
 }
