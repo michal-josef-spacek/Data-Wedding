@@ -27,11 +27,11 @@ sub BUILD {
 	check_number($self, 'id');
 
 	# Check person.
-	chec_required($self, 'person');
+	check_required($self, 'person');
 	check_isa($self, 'person', 'Data::Wedding::Person');
 
 	# Check wish.
-	chec_required($self, 'wish');
+	check_required($self, 'wish');
 	check_length($self, 'wish', 255);
 
 	return;
