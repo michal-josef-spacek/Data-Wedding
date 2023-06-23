@@ -28,7 +28,7 @@ sub BUILD {
 
 	# Check person.
 	check_required($self, 'person');
-	check_isa($self, 'person', 'Data::Wedding::Person');
+	check_isa($self, 'person', 'Data::Person');
 
 	# Check wish.
 	check_required($self, 'wish');

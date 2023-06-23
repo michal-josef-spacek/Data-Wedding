@@ -2,9 +2,6 @@ NAME
     Data::Wedding - Data objects for the Wedding application.
 
 SEE ALSO
-    Data::Wedding::Person
-        TODO
-
     Data::Wedding::Wish
         TODO
 

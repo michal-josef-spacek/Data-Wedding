@@ -1,6 +1,5 @@
 Changes
 CONCEPT
-examples/ex1.pl
 inc/Module/Install.pm
 inc/Module/Install/AuthorRequires.pm
 inc/Module/Install/AuthorTests.pm
@@ -17,21 +16,12 @@ Makefile.PL
 MANIFEST			This list of files
 META.yml
 README
-t/Data-Wedding-Person/01-use.t
-t/Data-Wedding-Person/02-version.t
-t/Data-Wedding-Person/03-new.t
-t/Data-Wedding-Person/04-email.t
-t/Data-Wedding-Person/05-name.t
-t/Data-Wedding-Person/06-id.t
 t/Data-Wedding-Wish/01-use.t
 t/Data-Wedding-Wish/02-version.t
 t/Data-Wedding/01-use.t
 t/Data-Wedding/02-version.t
 Wedding.pm
-Wedding/Person.pm
 Wedding/Wish.pm
-xt/Data-Wedding-Person/01-pod_coverage.t
-xt/Data-Wedding-Person/02-pod.t
 xt/Data-Wedding-Wish/01-pod_coverage.t
 xt/Data-Wedding-Wish/02-pod.t
 xt/Data-Wedding/01-pod_coverage.t

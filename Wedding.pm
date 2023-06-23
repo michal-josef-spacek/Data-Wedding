@@ -21,10 +21,6 @@ Data::Wedding - Data objects for the Wedding application.
 
 =over
 
-=item L<Data::Wedding::Person>
-
-TODO
-
 =item L<Data::Wedding::Wish>
 
 TODO
